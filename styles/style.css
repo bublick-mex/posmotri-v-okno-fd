@@ -99,11 +99,11 @@ ol {
   outline: none;
 }
 
-.search-form__textfield::placeholder{
+.search-form__textfield::placeholder {
   color: rgb(255 255 255 / 0.7);
 }
 
-.search-form__label{
+.search-form__label {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -270,7 +270,7 @@ ol {
   outline: 1px solid #fff;
 }
 
-.content__list-item{
+.content__list-item {
   padding: 0 3px;
 }
 
