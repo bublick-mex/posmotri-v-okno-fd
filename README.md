@@ -5,3 +5,4 @@
 2)Стилизованы форма поиска, кастомные чекбоксы и кнопки.
 3)Прописаны все состояния (:hover, :active, :focus, :checked).
 4)Верстка не трогает готовый JS и HTML.
+https://github.com/bublick-mex/posmotri-v-okno-fd.git
